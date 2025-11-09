@@ -16,8 +16,8 @@ Claude Skills are customizable workflows that teach Claude how to perform specif
 ## Skills in This Repository
 <img width="320" height="480" alt="AM Character Nov 9, 2025, 01_14_52 PM (Phone)" src="https://github.com/user-attachments/assets/8abf2455-02a6-4195-a0c6-7b8860315603" />
 
-### 🔧 Claude Desktop GitHub Skill Grabber
-**[Download v1.0](https://github.com/AMoorer/andys-claude-skills/releases/latest/download/claude-desktop-github-skill-grabber.zip)** | **[View Source](./claude-desktop-github-skill-grabber/)**
+### 🔧 GitHub Skill Grabber
+**[Download v1.0](https://github.com/AMoorer/andys-claude-skills/releases/latest/download/github-skill-grabber.zip)** | **[View Source](./github-skill-grabber/)**
 
 Automates downloading Claude skills from GitHub repositories with flexible search options.
 
@@ -62,7 +62,7 @@ Downloads any specific folder from GitHub repositories without cloning the entir
 
 **Option 2: Build from Source**
 1. Clone this repository or download the skill folder
-2. ZIP the skill folder (ensure folder structure: `skill-name/SKILL.md`)
+2. ZIP the skill folder (ensure SKILL.md is at root level of ZIP)
 3. Upload to Claude Desktop as above
 
 ### For Claude Code (CLI)
@@ -136,6 +136,8 @@ Detailed instructions for Claude on how to execute this skill...
 ...
 ```
 
+**Important**: For Claude Desktop, skill names cannot contain the reserved word "claude".
+
 ## Release Philosophy
 
 Skills in this repository follow a release paradigm:
@@ -166,6 +168,7 @@ Suggestions and improvements are welcome!
 - Document prerequisites and dependencies
 - Include error handling guidance
 - Test across multiple use cases
+- Avoid using reserved words like "claude" in skill names
 
 ## Resources
 
