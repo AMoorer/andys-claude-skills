@@ -14,6 +14,7 @@ Claude Skills are customizable workflows that teach Claude how to perform specif
 - **Powerful** - Include executable code for technical reliability
 
 ## Skills in This Repository
+<img width="320" height="480" alt="AM Character Nov 9, 2025, 01_14_52 PM (Phone)" src="https://github.com/user-attachments/assets/8abf2455-02a6-4195-a0c6-7b8860315603" />
 
 ### 🔧 Claude Desktop GitHub Skill Grabber
 **[Download v1.0](https://github.com/AMoorer/andys-claude-skills/releases/latest/download/claude-desktop-github-skill-grabber.zip)** | **[View Source](./claude-desktop-github-skill-grabber/)**
