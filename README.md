@@ -38,6 +38,7 @@ Automates downloading Claude skills from GitHub repositories with flexible searc
 **[Download v1.0](https://github.com/AMoorer/andys-claude-skills/releases/latest/download/github-folder-downloader.zip)** | **[View Source](./github-folder-downloader/)**
 
 Downloads any specific folder from GitHub repositories without cloning the entire repo.
+<img width="171" height="256" alt="AM_characterHappy Nov 9, 2025, 01_24_51 PM (Square 256)" src="https://github.com/user-attachments/assets/8ee844a3-a8c7-4259-91a2-6750edbea72e" />
 
 **Features**:
 - Extracts targeted folders from GitHub repos
